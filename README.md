@@ -1,2 +1,0 @@
-# BLUE
-BLUE trial org
