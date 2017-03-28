@@ -1,0 +1,15 @@
+package.xml 
+*copado__*
+*AES_SFConnector__*
+*BRNSHRK__*
+*BRNSHRKREPORT__*
+*TH1__*
+*dsfs__*
+*skuid__*
+*spanning__*
+src/flowDefinitions/*
+src/translations/*
+src/objectTranslations/*
+src/sites/*
+src/siteDotComSites/*
+src/reports/unfiled$public/*
